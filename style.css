@@ -1,5 +1,17 @@
-p{
+/*p{
     color:green;
     background-color: yellow;
 
+}*/
+i{
+    color:pink;
+}
+.letra-azul{
+    color:blue;
+}
+.fundoamarelo{
+    background-color:yellow;
+}
+#paragrafoamd{
+    color:red;
 }
